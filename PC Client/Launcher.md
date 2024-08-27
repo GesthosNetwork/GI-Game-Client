@@ -1,3 +1,3 @@
 ### 🎮 HoYoPlay Launcher
 
-[HoYoPlay Launcher 1.0.5.88](https://autopatchhk.yuanshen.com/client_app/download/launcher/20240513154945_Z9PTR1tntRU1IfvL/GenshinImpact_install_202405121403.exe)
+[HoYoPlay Launcher 1.1.4.133](https://download-porter.hoyoverse.com/download-porter/2024/08/26/VYTpXlbWo8_1.1.4.133_1_0_hyp_hoyoverse_prod_202408152031_ulMVEyOh%20%281%29.exe)
